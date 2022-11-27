@@ -1,0 +1,20 @@
+p{
+
+color:blue;
+font-size: 40px;
+
+}
+
+button{
+      width: 150px;
+      padding: 10px;
+      background: white;
+      border-radius: 10px;
+      border-color: beige;
+      cursor: pointer;
+}
+
+button:hover{
+      background: red;
+      color: white;
+}
