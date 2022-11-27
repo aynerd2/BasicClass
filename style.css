@@ -18,3 +18,18 @@ button:hover{
       background: red;
       color: white;
 }
+
+#button2{
+
+      width: 150px;
+      padding: 10px;
+      background: white;
+      border-radius: 10px;
+      border-color: beige;
+      cursor: pointer;
+}
+
+#button2:hover{
+      background:blue;
+      color: white;
+}
